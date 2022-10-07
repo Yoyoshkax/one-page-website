@@ -1,4 +1,0 @@
-FROM node
-WORKDIR /app
-COPY . .
-EXPOSE 3000
